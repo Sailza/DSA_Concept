@@ -1,0 +1,103 @@
+DATA STRUCTURE AND ALGORITHM
+====================================================================================================================================
+
+DSA - A way to store, analyze and process data which allow programmer to access and modify them easily in an efficient way
+It act as a backbone of the Programming languange 
+
+======================================================================================================================================
+The type of data Structure used are:
+Array , Linked list, Stack, Queue, graph, tree , hashtable, heap etc.
+
+=======================================================================================================================================
+The most common Functions you might want from a data structure are:
+-Accessing elements
+-searching for an element
+-inserting an element
+-Deleting an element
+
+===========================================================================================================================================
+We can measure the efficiency of an algoritm by calculating :
+The performance of the algorithm can be measured in two factors:
+
+Time complexity:
+■ The time complexity of an algorithm is the amount of time required to complete the 
+execution. 
+■ The time complexity of an algorithm is denoted by the big O notation. 
+■ Here, big O notation is the asymptotic notation to represent the time complexity. 
+■ The time complexity is mainly calculated by counting the number of steps to finish 
+the execution
+
+Space complexity:
+■ An algorithm's space complexity is the amount of space required to solve a problem 
+and produce an output. 
+■ Similar to the time complexity, space complexity is also expressed in big O notation.
+■ For an algorithm, the space is required for the following purposes:
+■ To store program instructions
+■ To store constant values
+■ To store variable values
+■ To track the function calls, jumping statements, etc.
+■ Auxiliary space: The extra space required by the algorithm, excluding the input size, 
+is known as an auxiliary space. The space complexity considers both the spaces, 
+i.e., auxiliary space, and space used by the input.
+■ So, Space complexity = Auxiliary space + Input size
+
+================================================================================================================================
+Approaches of algoritm :
+Brute force algorithm:
+■ The general logic structure is applied to design an algorithm. 
+■ It is also known as an exhaustive search algorithm that searches all the possibilities to 
+provide the required solution. 
+■ Such algorithms are of two types:
+– Optimizing: Finding all the solutions of a problem and then take out the best 
+solution or if the value of the best solution is known then it will terminate if the best 
+solution is known.
+– Sacrificing: As soon as the best solution is found, then it will stop
+
+Divide and conquer:
+■ It is a very implementation of an algorithm. 
+■ It allows you to design an algorithm in a step-by-step variation. 
+■ It breaks down the algorithm to solve the problem in different methods. 
+■ It allows you to break down the problem into different methods, and valid output is 
+produced for the valid input. 
+■ This valid output is passed to some other function.
+
+Greedy algorithm:
+■ It is an algorithm paradigm that makes an optimal choice on each iteration with the 
+hope of getting the best solution. 
+■ It is easy to implement and has a faster execution time. But, there are very rare 
+cases in which it provides the optimal solution
+
+Dynamic programming:
+It makes the algorithm more efficient by storing the intermediate results. 
+It follows five different steps to find the optimal solution for the problem: It breaks down 
+the problem into a subproblem to find the optimal solution.
+■ After breaking down the problem, it finds the optimal solution out of these 
+subproblems.
+■ Stores the result of the subproblems is known as memorization.
+■ Reuse the result so that it cannot be recomputed for the same subproblems.
+■ Finally, it computes the result of the complex program
+
+Branch and Bound Algorithm:
+■ The branch and bound algorithm can be applied to only integer programming 
+problems. 
+■ This approach divides all the sets of feasible solutions into smaller subsets. 
+■ These subsets are further evaluated to find the best solution.
+
+Randomized Algorithm:
+■ As we have seen in a regular algorithm, we have predefined input and required 
+output. 
+■ Those algorithms that have some defined set of inputs and required output, and 
+follow some described steps are known as deterministic algorithms. 
+■ What happens that when the random variable is introduced in the randomized 
+algorithm?. 
+■ In a randomized algorithm, some random bits are introduced by the algorithm and 
+added in the input to produce the output, which is random in nature. 
+■ Randomized algorithms are simpler and efficient than the deterministic algorithm
+
+Backtracking:
+■ Backtracking is an algorithmic technique that solves the problem recursively and 
+removes the solution if it does not satisfy the constraints of a problem
+
+
+
+
