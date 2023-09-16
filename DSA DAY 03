@@ -1,0 +1,18 @@
+Priori Analysis
+1) Done on algorithm 
+2) It is Independent of language 
+3) hardware independent 
+4) We can analyse time and space complexity 
+
+Posteriori Testing
+1) Done on Program or actual code written 
+2) It is language dependent 
+3) It is hardware dependent 
+
+
+Characteristics of an algorithm 
+1) Input - Algorithm can take 0 oer more input 
+2) output - Algorithm must generate atleast one output
+3) Definiteness - Every statement in an algorithm shoul contain Clear meaning 
+4) Finiteness - Algorithm should contain finite no of steps , you have to stop after some lines 
+5) Effectiveness - Dont write un necessary steps in an algorithm , every step written in an algorithm should have some purpose to write 
