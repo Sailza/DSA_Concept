@@ -1,0 +1,14 @@
+Algorithm is an step by step procedure to solve  a computational program 
+difference between Algorithm and program are:
+1) In sdlc model there are two imp step designing and implemention phase, in design phase we usuallyu write an algorithm 
+and after design we implement the designing into proper code is called Program
+we cannot evertime write the whole code so we can first write the algorithm for particular task
+
+2) For writing algorithm we canuse english lang, mathematical notation but
+in programming we have to write particular coding language like C,Cpp , java , python  etc.
+
+3)Algorithm doesnt depend on hardware or software but 
+while writing code  we have to choose particular harware and software supported by our Programming language
+
+4) After writing Algorithm we can analyse the code and check whether we get desired output or not 
+but after writing program we can test the test cases to check it meet user requirement or not
